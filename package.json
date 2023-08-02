@@ -1,14 +1,14 @@
 {
   "name": "modern_portfolio",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Responsive portfolio website",
   "main": "index.js",
-  "homepage": "https://madhumitha01.github.io/Modern-Portfolio",
+  "homepage": "https://Pranithvarma.github.io/Modern-Portfolio",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
   },
-  "author": "Madhumitha R",
+  "author": "Pranith Varma",
   "license": "MIT",
   "dependencies": {
     "gh-pages": "^2.0.1",
